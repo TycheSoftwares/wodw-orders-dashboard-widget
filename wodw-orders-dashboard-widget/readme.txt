@@ -1,4 +1,4 @@
-=== Change WooCommerce Price Title ===
+=== Woocommerce Orders Dashboard Widget ===
 Contributors: tychesoftwaraes, kartikparmar
 Author URI: https://www.tychesoftwares.com/
 Tags: woocommerce orders, quick order view , orders on dashboard, view order, woocommerce orders dashboard
