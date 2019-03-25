@@ -61,7 +61,7 @@ class Wc_Orders_Dashboard_Widget {
 		$screen_id      = $screen ? $screen->id : '';
 
 		if ( $screen_id == "dashboard" ) {
-			wp_enqueue_style( 'wodw-orders-dashboard-widget-css', plugins_url( '/css/wodw_style.css', __FILE__ ) );
+			wp_enqueue_style( 'wodw-orders-dashboard-widget-css', plugins_url( '/assets/css/wodw_style.css', __FILE__ ) );
 		}
 		
 	}
