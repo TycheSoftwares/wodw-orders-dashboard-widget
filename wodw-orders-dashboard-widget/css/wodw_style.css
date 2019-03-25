@@ -1,3 +1,5 @@
+/* This is main CSS file of the plugin */
+
 .complete, .processing, .view {
     display: block;
     text-indent: -9999px;
